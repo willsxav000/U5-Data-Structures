@@ -19,7 +19,7 @@ An array is an **object** that can store multiple items of the same data type.
 
 3. Create an empty array and manually fill it with the colors of the rainbow represented as Strings.
 
-4. Create two arrays, one which olds the number of days for each month, and a second to hold the month name. Be sure the number of days has the same index value as the month name. Output the month name and number of days it has. 
+4. Create two arrays, one which holds the number of days for each month, and a second to hold the month name. Be sure the number of days has the same index value as the month name. Output the month name and number of days it has. 
 
 
 
